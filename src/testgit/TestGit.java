@@ -21,4 +21,7 @@ public class TestGit {
     public int add(int a, int b){
         return a+b;
     }
+    public int moins(int a, int b){
+        return a-b;
+    }
 }
